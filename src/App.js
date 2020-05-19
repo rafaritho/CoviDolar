@@ -2,7 +2,6 @@ import React from 'react';
 
 import { Cards, Cards2, CountryPicker, Chart } from './components';
 import { fetchData, fetchCurrencyData } from './api/';
-//import { fetchCurrencyData } from './api/';
 import styles from './App.module.css';
 
 import image from './images/image.png';
