@@ -1,19 +1,10 @@
 body {
   background-color: rgb(244, 236, 226);  
-}
-
-
-body::after {
-  content: "";
   background: url("images/background.jpg");
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;   
 }
+
+
+
 
 
 .container {
@@ -23,7 +14,7 @@ body::after {
 }
 
 .image {
-  width: 370px;
+  width: 500px;
   margin-top: 50px;
 }
 
