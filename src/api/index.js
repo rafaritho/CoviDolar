@@ -1,7 +1,8 @@
 import axios from 'axios';
+import Data from '../webscraping/cotacao.json';
 
 const url = 'https://covid19.mathdro.id/api';
-const url2 = 'https://economia.awesomeapi.com.br/json/all/USD'
+const url2 = 'https://economia.awesomeapi.com.br/json/all/USD';
 
 export const fetchData = async (country) => {
   let changeableUrl = url;
@@ -24,6 +25,20 @@ export const fetchCurrencyData = async () => {
     const {data: {USD: {high, low, create_date}}} = await axios.get(url2);
 
     return {high, low, create_date};
+  } catch (error) {
+    
+  }
+}
+
+export const fetchCotacaoData = async () => {
+  try {
+    
+    const { cotacao } = Data; 
+    return cotacao.map(( { fechamento, date: date } ) => ({ fechamento: fechamento, date }))
+
+
+    //const {cotacao:[{fechamento, date}]} = Data;
+    //return {fechamento, date};
   } catch (error) {
     
   }
@@ -65,3 +80,4 @@ export const fetchCountries = async () => {
     return error;
   }
 };
+

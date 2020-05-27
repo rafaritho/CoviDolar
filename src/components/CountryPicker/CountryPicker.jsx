@@ -17,7 +17,7 @@ const Countries = ({ handleCountryChange }) => {
   }, []);
 
   
-    console.log(countries[23]);
+    //console.log(countries[23]);
   
   
 

@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Cards, Cards2, CountryPicker, Chart } from './components';
-import { fetchData, fetchCurrencyData } from './api/';
+import { Cards, Cards2, CountryPicker, Chart, Chart2 } from './components';
+import { fetchData, fetchCurrencyData, fetchCotacaoData} from './api/';
 import styles from './App.module.css';
 
 import image from './images/image.png';
@@ -17,8 +17,10 @@ class App extends React.Component {
   async componentDidMount() {
     const data = await fetchData();
     const dados = await fetchCurrencyData();
+    const dadosCotacao = await fetchCotacaoData();
 
     this.setState({ data , dados });
+    console.log(dadosCotacao);
 
   }
 
@@ -31,6 +33,8 @@ class App extends React.Component {
   render() {
     const { data, dados, country } = this.state;    
 
+    
+
     return (
       <div className={styles.container}>
         <img className={styles.image} src={image} alt="COVIDOLAR" />
@@ -38,6 +42,9 @@ class App extends React.Component {
         <Cards data={data} />        
         <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Chart data={data} country={country} /> 
+        <Chart2  /> 
+
+        
       </div>
     );
   }
