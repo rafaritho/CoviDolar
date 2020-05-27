@@ -14,7 +14,6 @@ const Chart = () => {
       setDailyData(initialDailyData);
     };
     
-    //console.log(dailyData);
 
     fetchAPI();
   }, []);  

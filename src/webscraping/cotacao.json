@@ -1,1 +1,368 @@
-{"cotacao": [{"date": "25-05-2020", "fechamento": 5.4449}, {"date": "24-05-2020", "fechamento": 5.5302}, {"date": "23-05-2020", "fechamento": 5.5302}, {"date": "22-05-2020", "fechamento": 5.5302}, {"date": "21-05-2020", "fechamento": 5.5539}, {"date": "20-05-2020", "fechamento": 5.692}, {"date": "19-05-2020", "fechamento": 5.7567}, {"date": "18-05-2020", "fechamento": 5.72058}, {"date": "17-05-2020", "fechamento": 5.85667}, {"date": "16-05-2020", "fechamento": 585667}, {"date": "15-05-2020", "fechamento": 585667}, {"date": "14-05-2020", "fechamento": 5811}, {"date": "13-05-2020", "fechamento": 58879}, {"date": "12-05-2020", "fechamento": 58863}, {"date": "11-05-2020", "fechamento": 58186}, {"date": "10-05-2020", "fechamento": 5481}, {"date": "09-05-2020", "fechamento": 57323}, {"date": "08-05-2020", "fechamento": 57324}, {"date": "07-05-2020", "fechamento": 583241}, {"date": "06-05-2020", "fechamento": 57167}, {"date": "05-05-2020", "fechamento": 55796}, {"date": "04-05-2020", "fechamento": 55421}, {"date": "03-05-2020", "fechamento": 54873}, {"date": "02-05-2020", "fechamento": 54873}, {"date": "01-05-2020", "fechamento": 54873}, {"date": "30-04-2020", "fechamento": 54875}, {"date": "29-04-2020", "fechamento": 53363}, {"date": "28-04-2020", "fechamento": 54982}, {"date": "27-04-2020", "fechamento": 56533}, {"date": "26-04-2020", "fechamento": 558185}, {"date": "25-04-2020", "fechamento": 559345}, {"date": "24-04-2020", "fechamento": 559345}, {"date": "23-04-2020", "fechamento": 55346}, {"date": "22-04-2020", "fechamento": 54584}, {"date": "21-04-2020", "fechamento": 53165}, {"date": "20-04-2020", "fechamento": 53169}, {"date": "19-04-2020", "fechamento": 52342}, {"date": "18-04-2020", "fechamento": 523692}, {"date": "17-04-2020", "fechamento": 52342}, {"date": "16-04-2020", "fechamento": 52324}, {"date": "15-04-2020", "fechamento": 523848}, {"date": "14-04-2020", "fechamento": 51635}, {"date": "13-04-2020", "fechamento": 520}, {"date": "12-04-2020", "fechamento": 5107}, {"date": "11-04-2020", "fechamento": 5107}, {"date": "10-04-2020", "fechamento": 5107}, {"date": "09-04-2020", "fechamento": 51073}, {"date": "08-04-2020", "fechamento": 51245}, {"date": "07-04-2020", "fechamento": 52232}, {"date": "06-04-2020", "fechamento": 52868}, {"date": "05-04-2020", "fechamento": 535}, {"date": "04-04-2020", "fechamento": 534677}, {"date": "03-04-2020", "fechamento": 534677}, {"date": "02-04-2020", "fechamento": 52568}, {"date": "01-04-2020", "fechamento": 52497}, {"date": "31-03-2020", "fechamento": 5205}, {"date": "30-03-2020", "fechamento": 51942}, {"date": "29-03-2020", "fechamento": 51005}, {"date": "28-03-2020", "fechamento": 51005}, {"date": "27-03-2020", "fechamento": 51005}, {"date": "26-03-2020", "fechamento": 50241}, {"date": "25-03-2020", "fechamento": 50352}, {"date": "24-03-2020", "fechamento": 50997}, {"date": "23-03-2020", "fechamento": 51432}, {"date": "22-03-2020", "fechamento": 505425}, {"date": "21-03-2020", "fechamento": 50639}, {"date": "20-03-2020", "fechamento": 50639}, {"date": "19-03-2020", "fechamento": 50957}, {"date": "18-03-2020", "fechamento": 51078}, {"date": "17-03-2020", "fechamento": 50112}, {"date": "16-03-2020", "fechamento": 50005}, {"date": "15-03-2020", "fechamento": 48596}, {"date": "14-03-2020", "fechamento": 48596}, {"date": "13-03-2020", "fechamento": 48596}, {"date": "12-03-2020", "fechamento": 47917}, {"date": "11-03-2020", "fechamento": 48153}, {"date": "10-03-2020", "fechamento": 46436}, {"date": "09-03-2020", "fechamento": 47244}, {"date": "08-03-2020", "fechamento": 46273}, {"date": "07-03-2020", "fechamento": 46273}, {"date": "06-03-2020", "fechamento": 462665}, {"date": "06-03-2020", "fechamento": 462665}, {"date": "05-03-2020", "fechamento": 46077}, {"date": "04-03-2020", "fechamento": 45849}, {"date": "03-03-2020", "fechamento": 45147}, {"date": "02-03-2020", "fechamento": 44739}, {"date": "01-03-2020", "fechamento": 44788}, {"date": "29-02-2020", "fechamento": 447305}, {"date": "28-02-2020", "fechamento": 447305}, {"date": "27-02-2020", "fechamento": 44863}, {"date": "26-02-2020", "fechamento": 44506}]}
+{
+    "cotacao": [
+        {
+          "date": "26-02-2020",
+          "fechamento": 4.4506
+        },
+        {
+          "date": "27-02-2020",
+          "fechamento": 4.4863
+        },
+        {
+          "date": "28-02-2020",
+          "fechamento": 4.47305
+        },
+        {
+          "date": "29-02-2020",
+          "fechamento": 4.47305
+        },
+        {
+          "date": "01-03-2020",
+          "fechamento": 4.4788
+        },
+        {
+          "date": "02-03-2020",
+          "fechamento": 4.4739
+        },
+        {
+          "date": "03-03-2020",
+          "fechamento": 4.5147
+        },
+        {
+          "date": "04-03-2020",
+          "fechamento": 4.5849
+        },
+        {
+          "date": "05-03-2020",
+          "fechamento": 4.6077
+        },
+        {
+          "date": "06-03-2020",
+          "fechamento": 4.62665
+        },
+        {
+          "date": "06-03-2020",
+          "fechamento": 4.62665
+        },
+        {
+          "date": "07-03-2020",
+          "fechamento": 4.6273
+        },
+        {
+          "date": "08-03-2020",
+          "fechamento": 4.6273
+        },
+        {
+          "date": "09-03-2020",
+          "fechamento": 4.7244
+        },
+        {
+          "date": "10-03-2020",
+          "fechamento": 4.6436
+        },
+        {
+          "date": "11-03-2020",
+          "fechamento": 4.8153
+        },
+        {
+          "date": "12-03-2020",
+          "fechamento": 4.7917
+        },
+        {
+          "date": "13-03-2020",
+          "fechamento": 4.8596
+        },
+        {
+          "date": "14-03-2020",
+          "fechamento": 4.8596
+        },
+        {
+          "date": "15-03-2020",
+          "fechamento": 4.8596
+        },
+        {
+          "date": "16-03-2020",
+          "fechamento": 5.0005
+        },
+        {
+          "date": "17-03-2020",
+          "fechamento": 5.0112
+        },
+        {
+          "date": "18-03-2020",
+          "fechamento": 5.1078
+        },
+        {
+          "date": "19-03-2020",
+          "fechamento": 5.0957
+        },
+        {
+          "date": "20-03-2020",
+          "fechamento": 5.0639
+        },
+        {
+          "date": "21-03-2020",
+          "fechamento": 5.0639
+        },
+        {
+          "date": "22-03-2020",
+          "fechamento": 5.05425
+        },
+        {
+          "date": "23-03-2020",
+          "fechamento": 5.1432
+        },
+        {
+          "date": "24-03-2020",
+          "fechamento": 5.0997
+        },
+        {
+          "date": "25-03-2020",
+          "fechamento": 5.0352
+        },
+        {
+          "date": "26-03-2020",
+          "fechamento": 5.0241
+        },
+        {
+          "date": "27-03-2020",
+          "fechamento": 5.1005
+        },
+        {
+          "date": "28-03-2020",
+          "fechamento": 5.1005
+        },
+        {
+          "date": "29-03-2020",
+          "fechamento": 5.1005
+        },
+        {
+          "date": "30-03-2020",
+          "fechamento": 5.1942
+        },
+        {
+          "date": "31-03-2020",
+          "fechamento": 5.205
+        },
+        {
+          "date": "01-04-2020",
+          "fechamento": 5.2497
+        },
+        {
+          "date": "02-04-2020",
+          "fechamento": 5.2568
+        },
+        {
+          "date": "03-04-2020",
+          "fechamento": 5.34677
+        },
+        {
+          "date": "04-04-2020",
+          "fechamento": 5.34677
+        },
+        {
+          "date": "05-04-2020",
+          "fechamento": 5.35
+        },
+        {
+          "date": "06-04-2020",
+          "fechamento": 5.2868
+        },
+        {
+          "date": "07-04-2020",
+          "fechamento": 5.2232
+        },
+        {
+          "date": "08-04-2020",
+          "fechamento": 5.1245
+        },
+        {
+          "date": "09-04-2020",
+          "fechamento": 5.1073
+        },
+        {
+          "date": "10-04-2020",
+          "fechamento": 5.107
+        },
+        {
+          "date": "11-04-2020",
+          "fechamento": 5.107
+        },
+        {
+          "date": "12-04-2020",
+          "fechamento": 5.107
+        },
+        {
+          "date": "13-04-2020",
+          "fechamento": 5.20
+        },
+        {
+          "date": "14-04-2020",
+          "fechamento": 5.1635
+        },
+        {
+          "date": "15-04-2020",
+          "fechamento": 5.23848
+        },
+        {
+          "date": "16-04-2020",
+          "fechamento": 5.2324
+        },
+        {
+          "date": "17-04-2020",
+          "fechamento": 5.2342
+        },
+        {
+          "date": "18-04-2020",
+          "fechamento": 5.23692
+        },
+        {
+          "date": "19-04-2020",
+          "fechamento": 5.2342
+        },
+        {
+          "date": "20-04-2020",
+          "fechamento": 5.3169
+        },
+        {
+          "date": "21-04-2020",
+          "fechamento": 5.3165
+        },
+        {
+          "date": "22-04-2020",
+          "fechamento": 5.4584
+        },
+        {
+          "date": "23-04-2020",
+          "fechamento": 5.5346
+        },
+        {
+          "date": "24-04-2020",
+          "fechamento": 5.59345
+        },
+        {
+          "date": "25-04-2020",
+          "fechamento": 5.59345
+        },
+        {
+          "date": "26-04-2020",
+          "fechamento": 5.58185
+        },
+        {
+          "date": "27-04-2020",
+          "fechamento": 5.6533
+        },
+        {
+          "date": "28-04-2020",
+          "fechamento": 5.4982
+        },
+        {
+          "date": "29-04-2020",
+          "fechamento": 5.3363
+        },
+        {
+          "date": "30-04-2020",
+          "fechamento": 5.4875
+        },
+        {
+          "date": "01-05-2020",
+          "fechamento": 5.4873
+        },
+        {
+          "date": "02-05-2020",
+          "fechamento": 5.4873
+        },
+        {
+          "date": "03-05-2020",
+          "fechamento": 5.4873
+        },
+        {
+          "date": "04-05-2020",
+          "fechamento": 5.5421
+        },
+        {
+          "date": "05-05-2020",
+          "fechamento": 5.5796
+        },
+        {
+          "date": "06-05-2020",
+          "fechamento": 5.7167
+        },
+        {
+          "date": "07-05-2020",
+          "fechamento": 5.83241
+        },
+        {
+          "date": "08-05-2020",
+          "fechamento": 5.7324
+        },
+        {
+          "date": "09-05-2020",
+          "fechamento": 5.7323
+        },
+        {
+          "date": "10-05-2020",
+          "fechamento": 5.481
+        },
+        {
+          "date": "11-05-2020",
+          "fechamento": 5.8186
+        },
+        {
+          "date": "12-05-2020",
+          "fechamento": 5.8863
+        },
+        {
+          "date": "13-05-2020",
+          "fechamento": 5.8879
+        },
+        {
+          "date": "14-05-2020",
+          "fechamento": 5.811
+        },
+        {
+          "date": "15-05-2020",
+          "fechamento": 5.85667
+        },
+        {
+          "date": "16-05-2020",
+          "fechamento": 5.85667
+        },
+        {
+          "date": "17-05-2020",
+          "fechamento": 5.85667
+        },
+        {
+          "date": "18-05-2020",
+          "fechamento": 5.72058
+        },
+        {
+          "date": "19-05-2020",
+          "fechamento": 5.7567
+        },
+        {
+          "date": "20-05-2020",
+          "fechamento": 5.692
+        },
+        {
+          "date": "21-05-2020",
+          "fechamento": 5.5539
+        },
+        {
+          "date": "22-05-2020",
+          "fechamento": 5.5302
+        },
+        {
+          "date": "23-05-2020",
+          "fechamento": 5.5302
+        },
+        {
+          "date": "24-05-2020",
+          "fechamento": 5.5302
+        },
+        {
+          "date": "25-05-2020",
+          "fechamento": 5.4449
+        }
+      ]
+}

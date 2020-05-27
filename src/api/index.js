@@ -33,7 +33,7 @@ export const fetchCurrencyData = async () => {
 export const fetchCotacaoData = async () => {
   try {
     
-    const { cotacao } = Data; 
+    const { cotacao } = Data;
     return cotacao.map(( { fechamento, date: date } ) => ({ fechamento: fechamento, date }))
 
 
