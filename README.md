@@ -29,6 +29,7 @@
 
 ### APIs utilizadas: 
 https://covid19.mathdro.id/api
+
 https://docs.awesomeapi.com.br/api-de-moedas
 
 ### Setup para rodar localmente:
